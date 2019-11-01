@@ -255,3 +255,111 @@ span .headerImg{
     padding-bottom: 7%;
 }
 
+.mainHead h1{
+    font-size: 30px;
+}
+
+.mainHead{
+    text-align: center;
+    width: 70%;
+    padding-left: 30%;
+}
+
+/* Product Page */
+
+.mainContainer{
+    width: 800px;
+    margin-left: 30%;
+}
+
+.mainHead{
+    display: flex;
+    flex-direction: column;
+}
+
+.mainHead {
+    width: 800px;
+    text-align: center;
+    padding-left: 0%;
+    border-bottom: 2px dotted gray;
+    padding-bottom: 4%;
+    margin-bottom: 4%;
+}
+
+.midSection{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.topRow .block1{
+    width: 100%;
+    border: 1px solid #14121f;
+    border-radius: 5%;
+    margin-bottom: 15%;
+}
+
+.topRow .block2{
+    width: 100%;
+    border: 1px solid #0c3d78;
+    border-radius: 5%;
+    margin-bottom: 15%;
+}
+
+.topRow .block3{
+    width: 100%;
+    border: 1px solid #3bb5e6;
+    border-radius: 5%;
+    margin-bottom: 15%;
+}
+
+.midRow .block1{
+    width: 100%;
+    border: 1px solid #2f2c4b;
+    border-radius: 5%;
+    margin-bottom: 15%;
+}
+
+.midRow .block2{
+    width: 100%;
+    border: 1px solid #1a61af;
+    border-radius: 5%;
+    margin-bottom: 15%;
+}
+
+.midRow .block3{
+    width: 100%;
+    border: 1px solid #d84a5a;
+    background-color:#d84a5a;
+    color:white;
+    border-radius: 5%;
+    margin-bottom: 15%;
+}
+
+.botRow .block1{
+    width: 100%;
+    border: 1px solid black;
+    background-color:#14121f;
+    color:white;
+    border-radius: 5%;
+    margin-bottom: 15%;
+}
+
+.botRow .block2{
+    width: 100%;
+    border: 1px solid black;
+    background-color:#0c3d78;
+    color:white;
+    border-radius: 5%;
+    margin-bottom: 15%;
+}
+
+.botRow .block3{
+    width: 100%;
+    border: 1px solid black;
+    background-color:#3bb5e6;
+    color:white;
+    border-radius: 5%;
+    margin-bottom: 15%;
+}
+
