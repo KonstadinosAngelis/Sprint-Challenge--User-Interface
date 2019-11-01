@@ -145,11 +145,7 @@ footer nav a {
     text-decoration: none;
 }
 
-/* Header CSS */
-
-header{
-
-}
+/* home CSS */
 
 .navBar{
     display: flex;
@@ -213,6 +209,49 @@ header{
     background: dodgerblue;
 }
 
+/* About Page CSS */
 
+span .headerImg{
+    margin-left: 28%;
+    width: 43.5%;
+}
 
+.aboutSec{
+    border-bottom: 2px dotted gray;
+}
+
+.textBar{
+    display: flex;
+}
+
+.textBar h2{
+    padding-top: 4%;
+}
+
+.textBar p{
+    padding-bottom: 5%;
+    border-bottom: 25px;
+}
+
+.text1, .text2{
+    border-bottom: 2px dotted gray;
+    padding-top: 5%;
+    padding-bottom: 4%;
+    margin-right: 4%;
+}
+
+.learnButton{
+    display: inline;
+    border: 2px solid black;
+    border-radius: 12%;
+    padding: 2% 5%;
+}
+
+.footerText h3{
+    padding-top: 3%;
+}
+
+.footerText p{
+    padding-bottom: 7%;
+}
 
